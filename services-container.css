@@ -37,15 +37,20 @@ h1 {
     text-align: center;
     justify-content: center;
     align-items: center;
+    color: #636e72;
 }
 
 .services-container .service-block .icon {
     font-size: 32px;
-    color: #636e72;
     margin-top: 24px;
 }
 
 .services-container .service-block .description {
     font-size: 12px;
-    color: #636e72;
+}
+
+.services-container .service-block:hover {
+    background: #636e72;
+    transition-duration: 0.5s;
+    color: #fff;
 }
