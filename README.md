@@ -4,7 +4,7 @@
 
 ## DEMO
 
-[DEMO](https://mizuki901.github.io/services-container/){:target="_blank"}
+[DEMO](https://mizuki901.github.io/services-container/)
 
 ## License
 
