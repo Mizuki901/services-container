@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+}
+
+.content-area {
+    font-family: 'Spartan';
+    margin: 60px 60px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.border {
+    width: 120px;
+    height: 2px;
+    background: #2d3436;
+    margin: 10px auto;
+}
+
+.services-container {
+    max-width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.services-container .service-block {
+    display: inline-block;
+    width: 180px;
+    height: 180px;
+    margin: 20px;
+    background: #dfe6e9;
+    line-height: 2;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.services-container .service-block .icon {
+    font-size: 32px;
+    color: #636e72;
+    margin-top: 24px;
+}
+
+.services-container .service-block .description {
+    font-size: 12px;
+    color: #636e72;
+}
